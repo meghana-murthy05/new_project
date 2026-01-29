@@ -1,1 +1,1 @@
-first_commit
+first commit of the project
